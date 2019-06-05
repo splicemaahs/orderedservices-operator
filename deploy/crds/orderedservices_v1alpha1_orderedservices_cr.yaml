@@ -1,0 +1,7 @@
+apiVersion: orderedservices.splicemachine.io/v1alpha1
+kind: OrderedServices
+metadata:
+  name: example-orderedservices
+spec:
+  # Add fields here
+  size: 3
